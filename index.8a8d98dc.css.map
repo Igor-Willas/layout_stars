@@ -1,0 +1,1 @@
+{"mappings":"ACAA,wBAKA","sources":["index.8a8d98dc.css","src/style.css"],"sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n}\n\n.stars {\n  padding: 0;\n  display: flex;\n}\n/*# sourceMappingURL=index.8a8d98dc.css.map */\n","body {\n  margin: 0;\n  padding: 0;\n}\n\n.stars {\n  display: flex;\n  padding: 0;\n}\n"],"names":[],"version":3,"file":"index.8a8d98dc.css.map"}
